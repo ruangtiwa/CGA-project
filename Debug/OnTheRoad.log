@@ -1,0 +1,31 @@
+﻿  Source.cpp
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(108): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(114): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(148): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(149): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(150): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(151): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(179): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(228): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(237): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(246): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(257): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(266): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(275): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(284): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(295): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(296): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(326): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(357): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(437): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(457): warning C4305: '+=': truncation from 'double' to 'float'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(463): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(478): warning C4305: '+=': truncation from 'double' to 'float'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(483): warning C4305: '+=': truncation from 'double' to 'float'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(508): warning C4305: '-=': truncation from 'double' to 'float'
+d:\courses\at7009 cga\project\back-up file\1-5-2019\ontheroad -1-5\source.cpp(528): warning C4305: '+=': truncation from 'double' to 'float'
+  OnTheRoad.vcxproj -> D:\Courses\AT7009 CGA\project\back-up file\1-5-2019\OnTheRoad -1-5\Debug\OnTheRoad.exe
+  OnTheRoad.vcxproj -> D:\Courses\AT7009 CGA\project\back-up file\1-5-2019\OnTheRoad -1-5\Debug\OnTheRoad.pdb (Full PDB)
